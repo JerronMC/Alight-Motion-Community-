@@ -1,0 +1,8 @@
+{
+  "name": "am-community-creator-studio",
+  "version": "4.0.0",
+  "private": true,
+  "description": "Independent Alight Motion learning hub, packaged as plain HTML/CSS/JavaScript.",
+  "entry": "index.html",
+  "files": ["index.html", "style.css", "script.js", "README.md", "assets/README.md"]
+}
